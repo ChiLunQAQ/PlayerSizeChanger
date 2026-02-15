@@ -1,0 +1,11 @@
+{
+    "id": "player_size_changer",
+    "version": "1.0.0",
+    "name": "Player Height Changer",
+    "description": "A plugin to change player height",
+    "author": "ChiLunQAQ",
+    "link": "https://github.com/ChiLunQAQ/PlayerSizeChanger",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    }
+}

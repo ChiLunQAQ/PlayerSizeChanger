@@ -1,0 +1,19 @@
+{
+    "player_size_changer": {
+        "menu": {
+            "title": "------- MCDR Player Height Changer -------",
+            "description": "A plugin to change player height",
+            "format_title": "[Format Instructions]",
+            "command_help": "!!size Show help information",
+            "command_block": "!!size block Set to block height",
+            "command_restore": "!!size restore Restore original height",
+            "footer": "----------------------------------------"
+        },
+        "messages": {
+            "block_size_set": "Your height has been set to block height!",
+            "original_size_restored": "Your height has been restored to original!",
+            "player_only": "This command can only be used by players!",
+            "help": "Change player height"
+        }
+    }
+}

@@ -1,19 +1,19 @@
 {
     "player_size_changer": {
         "menu": {
-            "title": "------- MCDR Player Height Changer -------",
-            "description": "一个更改玩家高度的插件",
+            "title": "------- MCDR Player Size Changer -------",
+            "description": "一个更改玩家大小的插件",
             "format_title": "【格式说明】",
             "command_help": "!!size 显示帮助信息",
-            "command_block": "!!size block 设置为方块高度",
-            "command_restore": "!!size restore 恢复原始高度",
+            "command_block": "!!size block 设置为方块大小",
+            "command_restore": "!!size restore 恢复原始大小",
             "footer": "----------------------------------------"
         },
         "messages": {
-            "block_size_set": "您的高度已设置为方块高度！",
-            "original_size_restored": "您的高度已恢复为原始高度！",
+            "block_size_set": "您的大小已设置为方块大小！",
+            "original_size_restored": "您的大小已恢复为原始大小！",
             "player_only": "此命令只能由玩家使用！",
-            "help": "更改玩家高度"
+            "help": "更改玩家大小"
         }
     }
 }
